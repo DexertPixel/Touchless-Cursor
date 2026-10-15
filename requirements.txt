@@ -1,0 +1,4 @@
+opencv-python>=4.8
+# Use the current MediaPipe Tasks API, available in current MediaPipe releases.
+mediapipe>=0.10.30,<1
+PyAutoGUI>=0.9.54
